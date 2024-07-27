@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://ikarosvirtual.com",
+      "host": "https://ikarosvirtual.com/",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
